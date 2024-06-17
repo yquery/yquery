@@ -1,7 +1,7 @@
 <img align="right" src=".github/assets/sticker.gif" width="40%" height="40%" />
 
 ### Yo, name's Max
-Primarily Java Developer focused on open-source and commercial projects, like to catch bugs sometimes 🐛
+Primarily Java Developer focused on open-source and commercial projects 🐛
 
 Head developer at [Marlikko](https://github.com/Marlikko) & [Somnacreare](https://github.com/Somnacreare)
 
