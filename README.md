@@ -1,4 +1,4 @@
-<img align="right" src=".github/assets/sticker.gif" width="40%" height="40%" />
+<img align="right" src=".github/assets/sticker.gif" width="15%" height="15%" />
 
 ### Hi, I'm Max
 Primarily Java Developer focused on open-source and commercial projects 🐛
